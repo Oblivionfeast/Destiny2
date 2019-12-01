@@ -27,3 +27,34 @@ dimwishlist:item=3419149443&perks=1840239774,689005463,2213355989,1600092898
 
 //Crooked Fang-4fr - Accelerated Coils + Hip-Fire Grip + Backup Plan
 dimwishlist:item=3419149443&perks=689005463,1866048759,1600092898
+
+//###################################
+// Misfit - Auto Rifle
+//###################################
+
+//Misfit - Quickdraw + Rampage
+dimwishlist:item=819441402&perks=706527188,3425386926
+
+//Misfit - Quickdraw + Moving Target
+dimwishlist:item=819441402&perks=706527188,588594999
+
+//Misfit - Zen Moment + Rampage / High-Impact Reserves / Under Pressure
+dimwishlist:item=819441402&perks=2387244414,3425386926
+dimwishlist:item=819441402&perks=2387244414,2213355989
+dimwishlist:item=819441402&perks=2387244414,1645158859
+
+//###################################
+// Go Figure - Pulse Rifle
+//###################################
+
+//Go Figure - Outlaw + Rampage
+dimwishlist:item=4138174248&perks=1168162263,3425386926
+
+//Go Figure - Outlaw + Kill Clip
+dimwishlist:item=4138174248&perks=1168162263,1015611457
+
+//Go Figure - Zen Moment + Full Auto Trigger System
+dimwishlist:item=4138174248&perks=2387244414,4267945040
+
+//Go Figure - Moving Target + Rangefinder
+dimwishlist:item=4138174248&perks=588594999,2846385770

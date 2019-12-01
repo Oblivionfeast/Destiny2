@@ -1,0 +1,8 @@
+//The Wizened Rebuke - Accelerated Coils + Threat Detector + Backup Plan
+dimwishlist:item=930590127&perks=689005463,4071163871,1600092898
+
+//The Wizened Rebuke - Under Pressure + High-Impact Reserves
+dimwishlist:item=930590127&perks=1645158859,2213355989
+
+//The Wizened Rebuke - Threat Detector + Demolitionist
+dimwishlist:item=930590127&perks=4071163871,3523296417

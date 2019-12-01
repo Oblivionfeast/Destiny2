@@ -13,16 +13,14 @@ dimwishlist:item=4020742303&perks=2779035018,2679249093
 //###################################
 // Accrued Redemption - Combat Bow
 //###################################
-// Masterwork: Charge Time might be nice
 
-
-//Accrued Redemption - Archer's Tempo + Moving Target / Explosive Head / Rampage / Rapid Hit
+//Accrued Redemption - Archer's Tempo + Moving Target / Explosive Head / Rampage / Rapid Hit (Masterwork: Draw Time / Handling)
 dimwishlist:item=4095896073&perks=706527188,588594999
 dimwishlist:item=4095896073&perks=706527188,3365897133
 dimwishlist:item=4095896073&perks=706527188,3425386926
 dimwishlist:item=4095896073&perks=706527188,247725512
 
-//Accrued Redemption - Quickdraw + Moving Target / Explosive Head / Rampage / Rapid Hit
+//Accrued Redemption - Quickdraw + Moving Target / Explosive Head / Rampage / Rapid Hit (Masterwork: Draw Time)
 dimwishlist:item=4095896073&perks=201365942,588594999
 dimwishlist:item=4095896073&perks=201365942,3365897133
 dimwishlist:item=4095896073&perks=201365942,3425386926

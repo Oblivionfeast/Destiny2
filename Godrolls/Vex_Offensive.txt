@@ -54,3 +54,17 @@ dimwishlist:item=1167153950&perks=2779035018,2458213969
 //###################################
 //Temporal Clause - Quickdraw + Rampage
 dimwishlist:item=3369545945&perks=706527188,3425386926
+
+
+
+//###################################
+// Temporal Clause - Auto Rifle
+//###################################
+//Pluperfect - Zen Moment + Rampage
+dimwishlist:item=1952163498&perks=2387244414,3425386926
+
+//Pluperfect - Outlaw + Rampage
+dimwishlist:item=1952163498&perks=1168162263,3425386926
+
+//Pluperfect - Outlaw + Kill Clip
+dimwishlist:item=1952163498&perks=1168162263,1015611457

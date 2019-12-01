@@ -4,3 +4,16 @@
 
 //Tranquility - Field Prep + Firing Line
 dimwishlist:item=1645386487&perks=2869569095,1771339417
+
+//###################################
+// Apostate - Sniper Rifle
+//###################################
+
+//Apostate - Moving target + Quickdraw
+dimwishlist:item=2164448701&perks=588594999,706527188
+
+//Apostate - Outlaw + Quickdraw
+dimwishlist:item=2164448701&perks=1168162263,706527188
+
+//Apostate - Outlaw + Multikill Clip (kinda shit but oh well)
+dimwishlist:item=2164448701&perks=1168162263,2458213969

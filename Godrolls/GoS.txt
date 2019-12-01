@@ -26,6 +26,9 @@ dimwishlist:item=2209003210&perks=1645158859,1600092898#notes:PVP
 dimwishlist:item=2209003210&perks=3300816228,3425386926
 dimwishlist:item=2209003210&perks=3300816228,1600092898
 
+//Zealot's Reward - Under Pressure + High-Impact Reserves
+dimwishlist:item=2209003210&perks=1645158859,2213355989
+
 //###################################
 // Accrued Redemption - Combat Bow
 //###################################

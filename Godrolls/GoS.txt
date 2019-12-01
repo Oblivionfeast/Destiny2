@@ -9,6 +9,22 @@ dimwishlist:item=4020742303&perks=2779035018,3425386926
 dimwishlist:item=4020742303&perks=2779035018,2679249093
 
 
+//###################################
+// Prophet of Doom - Fusion Rifle
+//###################################
+
+//Zealot's Reward - Feeding Frenzy + Rampage
+dimwishlist:item=2209003210&perks=2779035018,3425386926
+
+//Zealot's Reward - Feeding Frenzy + Backup Plan
+dimwishlist:item=2209003210&perks=2779035018,1600092898
+
+//Zealot's Reward - Under Pressure + Backup Plan
+dimwishlist:item=2209003210&perks=1645158859,1600092898#notes:PVP
+
+//Zealot's Reward - Auto-Loading Holster + Rampage / Backup Plan
+dimwishlist:item=2209003210&perks=3300816228,3425386926
+dimwishlist:item=2209003210&perks=3300816228,1600092898
 
 //###################################
 // Accrued Redemption - Combat Bow

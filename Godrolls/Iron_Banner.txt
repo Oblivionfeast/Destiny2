@@ -1,0 +1,9 @@
+//###################################
+// Orewing's Maul - Grenade Launcher
+//###################################
+
+//Orewing's Maul - Proximity Grenades / Spike Grenades + Quickdraw + Auto-Loading Holster / Demolitionist
+dimwishlist:item=2108920981&perks=409831596,706527188,3300816228
+dimwishlist:item=2108920981&perks=409831596,706527188,3523296417
+dimwishlist:item=2108920981&perks=3301904089,706527188,3300816228
+dimwishlist:item=2108920981&perks=3301904089,706527188,3523296417

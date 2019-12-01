@@ -13,3 +13,14 @@ dimwishlist:item=930590127&perks=1645158859,2213355989
 
 //The Wizened Rebuke - Threat Detector + Demolitionist
 dimwishlist:item=930590127&perks=4071163871,3523296417
+
+//###################################
+// Crooked Fang-4fr - Linear Fusion Rifle
+//###################################
+
+//Crooked Fang-4fr - Accelerated Coils + High-Impact Reserves + Backup Plan (PVP)
+dimwishlist:item=3419149443&perks=689005463,2213355989,1600092898
+
+//Crooked Fang-4fr - Fluted Barrel / Arrhowhead Brake + Accelerated Coils + High-Impact Reserves + Backup Plan (PVP)
+dimwishlist:item=3419149443&perks=839105230,689005463,2213355989,1600092898
+dimwishlist:item=3419149443&perks=1840239774,689005463,2213355989,1600092898

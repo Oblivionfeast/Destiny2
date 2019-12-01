@@ -58,3 +58,11 @@ dimwishlist:item=4138174248&perks=2387244414,4267945040
 
 //Go Figure - Moving Target + Rangefinder
 dimwishlist:item=4138174248&perks=588594999,2846385770
+
+
+//###################################
+// Toil and Trouble - Shotgun
+//###################################
+
+//Toil and Trouble - Rampage + Threat Detector
+dimwishlist:item=2957367743&perks=4071163871,3425386926

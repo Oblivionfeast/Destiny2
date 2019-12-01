@@ -8,3 +8,5 @@ dimwishlist:item=2663204025&perks=1168162263,4082225868
 dimwishlist:item=2663204025&perks=1168162263,2458213969
 dimwishlist:item=2663204025&perks=1168162263,3425386926
 
+//Subjunctive - Threat Detector + Surrounded
+dimwishlist:item=2663204025&perks=4071163871,3708227201

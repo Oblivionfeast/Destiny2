@@ -1,6 +1,6 @@
-///////////////////////////
-//Subjunctive
-///////////////////////////
+//###################################
+// Subjunctive
+//###################################
 
 //Subjunctive - Quickdraw + Swashbuckler/Multikill Clip/Rampage
 dimwishlist:item=2663204025&perks=706527188,4082225868
@@ -15,11 +15,20 @@ dimwishlist:item=2663204025&perks=1168162263,3425386926
 //Subjunctive - Threat Detector + Surrounded
 dimwishlist:item=2663204025&perks=4071163871,3708227201
 
-///////////////////////////
-//Optative
-///////////////////////////
+//###################################
+// Optative
+//###################################
 //Optative - Tactical Mag + Rapid Hit + Kill Clip
 dimwishlist:item=2138599001&perks=106909392,247725512,1015611457
 
 //Optative - Rapid Hit + Kill Clip
 dimwishlist:item=2138599001&perks=247725512,1015611457
+
+
+//###################################
+// Imperative
+//###################################
+//Imperative - Outlaw + Explosive Payload / Rampage / Multikill Clip
+dimwishlist:item=2314999489&perks=1168162263,3038247973
+dimwishlist:item=2314999489&perks=1168162263,3425386926
+dimwishlist:item=2314999489&perks=1168162263,2458213969

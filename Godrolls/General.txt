@@ -1,4 +1,17 @@
 //###################################
+// Subtle Calamity - Combat Bow
+//###################################
+
+//Subtle Calamity - Rampage + Archer's Tempo
+dimwishlist:item=3410721600&perks=3425386926,201365942
+
+//Subtle Calamity - Rampage + Explosive Head
+dimwishlist:item=3410721600&perks=3425386926,3365897133
+
+//Subtle Calamity - Dragonfly + Explosive Head
+dimwishlist:item=3410721600&perks=2848615171,3365897133
+
+//###################################
 // Bad Omens - Rocket Launcher
 //###################################
 

@@ -38,3 +38,6 @@ dimwishlist:item=2326716489&perks=706527188,3161816588
 
 //Gunnora's Axe - Quickdraw + Rampage
 dimwishlist:item=2326716489&perks=706527188,3425386926
+
+//Gunnora's Axe - Quickdraw + Opening Shot
+dimwishlist:item=2326716489&perks=706527188,47981717

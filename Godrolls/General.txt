@@ -68,3 +68,14 @@ dimwishlist:item=4138174248&perks=2387244414,3425386926
 
 //Toil and Trouble - Rampage + Threat Detector
 dimwishlist:item=2957367743&perks=4071163871,3425386926
+
+
+//###################################
+// Better Devils - Hand Cannon
+//###################################
+
+//Better Devils - Outlaw + Kill Clip
+dimwishlist:item=153979397&perks=1168162263,1015611457
+
+//Better Devils - Moving Target + Explosive Payload
+dimwishlist:item=153979397&perks=588594999,3038247973

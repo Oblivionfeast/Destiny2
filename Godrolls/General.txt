@@ -146,3 +146,16 @@ dimwishlist:item=2034817450&perks=1168162263,3038247973
 // Sounds like fun.
 dimwishlist:item=2034817450&perks=4267945040,3038247973
 
+
+//###################################
+// Steel Sybil Z-14 - Sword
+//###################################
+
+//Steel Sybil Z-14 - Heavy Guard + Relentless Strikes + En Garde
+dimwishlist:item=4230993599&perks=2349202967,1749209109,1685431615
+
+//Steel Sybil Z-14 - Heavy Guard + Relentless Strikes + Whirlwind Blade
+dimwishlist:item=4230993599&perks=2349202967,1749209109,3913600130
+
+//Steel Sybil Z-14 - Heavy Guard + Tireless Blade + Assasins Blade
+dimwishlist:item=4230993599&perks=2349202967,2590710093,354401740

@@ -1,4 +1,11 @@
 //###################################
+// Zenobia-D - Rocket Launcher
+//###################################
+
+//Zenobia-D - Auto Loading Holster + Cluster Bomb
+dimwishlist:item=3776129137&perks=3300816228,1275731761
+
+//###################################
 // The Wizened Rebuke - Fusion Rifle
 //###################################
 

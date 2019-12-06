@@ -1,4 +1,17 @@
 //###################################
+// The Cut and Run - Sidearm
+//###################################
+
+//Translation Theory - Outlaw + Kill Clip
+dimwishlist:item=1843044398&perks=1168162263,1015611457
+
+//Translation Theory - Outlaw + Rampage
+dimwishlist:item=1843044398&perks=1168162263,3425386926
+
+//Translation Theory - Full Auto Trigger System + Rampage
+dimwishlist:item=1843044398&perks=4267945040,3425386926
+
+//###################################
 // The Cut and Run - Scout Rifle
 //###################################
 

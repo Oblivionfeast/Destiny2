@@ -1,5 +1,5 @@
 //###################################
-// The Cut and Run - Sidearm
+// Translation Theory - Sidearm
 //###################################
 
 //Translation Theory - Outlaw + Kill Clip

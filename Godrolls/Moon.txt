@@ -5,6 +5,12 @@
 //Tranquility - Field Prep + Firing Line
 dimwishlist:item=1645386487&perks=2869569095,1771339417
 
+//Tranquility - Outlaw + Firing Line
+dimwishlist:item=1645386487&perks=1168162263,1771339417
+
+//Tranquility - Auto Loading Holster  + Firing Line
+dimwishlist:item=1645386487&perks=3300816228,1771339417
+
 //###################################
 // Apostate - Sniper Rifle
 //###################################

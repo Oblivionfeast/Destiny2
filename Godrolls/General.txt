@@ -115,3 +115,10 @@ dimwishlist:item=1518042134&perks=1359896290,3425386926
 //Halfdan-D - Quickdraw + Rampage / Kill Clip
 dimwishlist:item=1518042134&perks=706527188,3425386926
 dimwishlist:item=1518042134&perks=706527188,1015611457
+
+//###################################
+// Ten Paces - Hand Cannon
+//###################################
+
+//Ten Paces - Quickdraw + Rampage
+dimwishlist:item=2112909415&perks=706527188,3425386926

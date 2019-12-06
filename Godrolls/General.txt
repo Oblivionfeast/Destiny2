@@ -1,4 +1,15 @@
 //###################################
+// Does Not Compute - Pulse Rifle
+//###################################
+
+//Does Not Compute - Moving Target + Explosive Payload / Outlaw / Rampage / Kill Clip
+dimwishlist:item=2278995296&perks=588594999,3038247973
+dimwishlist:item=2278995296&perks=588594999,1168162263
+dimwishlist:item=2278995296&perks=588594999,3425386926
+dimwishlist:item=2278995296&perks=588594999,1015611457
+
+
+//###################################
 // Wishbringer - Shotgun
 //###################################
 
@@ -7,6 +18,7 @@ dimwishlist:item=3356526253&perks=3161816588,3425386926
 
 //Wishbringer - Threat Detector + Rampage
 dimwishlist:item=3356526253&perks=4071163871,3425386926
+
 
 //###################################
 // Last Perdition - Fusion Rifle

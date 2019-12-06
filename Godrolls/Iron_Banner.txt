@@ -7,3 +7,16 @@ dimwishlist:item=2108920981&perks=409831596,706527188,3300816228
 dimwishlist:item=2108920981&perks=409831596,706527188,3523296417
 dimwishlist:item=2108920981&perks=3301904089,706527188,3300816228
 dimwishlist:item=2108920981&perks=3301904089,706527188,3523296417
+
+//###################################
+// Orewing's Maul - Hand Cannon
+//###################################
+
+//Crimil's Dagger - Outlaw + Kill Clip
+dimwishlist:item=4292849692&perks=1168162263,1015611457
+
+//Crimil's Dagger - Moving Target + Explosive Payload
+dimwishlist:item=4292849692&perks=588594999,3038247973
+
+//Crimil's Dagger - Outlaw + Explosive Payload
+dimwishlist:item=4292849692&perks=1168162263,3038247973

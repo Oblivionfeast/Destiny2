@@ -59,6 +59,8 @@ dimwishlist:item=4138174248&perks=2387244414,4267945040
 //Go Figure - Moving Target + Rangefinder
 dimwishlist:item=4138174248&perks=588594999,2846385770
 
+//Go Figure - Zen Moment + Rampage
+dimwishlist:item=4138174248&perks=2387244414,3425386926
 
 //###################################
 // Toil and Trouble - Shotgun

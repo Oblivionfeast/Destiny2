@@ -1,4 +1,17 @@
 //###################################
+// Breath of the Dragon - Submachine Gun
+//###################################
+//Breath of the Dragon - Zen Moment + Rampage
+dimwishlist:item=1357080535&perks=2387244414,3425386926
+
+//Breath of the Dragon - Zen Moment + Kill Clip
+dimwishlist:item=1357080535&perks=2387244414,1015611457
+
+//Breath of the Dragon - Slideways + Rampage / Kill Clip
+dimwishlist:item=1357080535&perks=2039302152,1015611457
+dimwishlist:item=1357080535&perks=2039302152,3425386926
+
+//###################################
 // Subtle Calamity - Combat Bow
 //###################################
 

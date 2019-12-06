@@ -1,4 +1,11 @@
 //###################################
+// The Hero's Burden - Submachine Gun
+//###################################
+
+//The Hero's Burden - Zen Moment + Kill Clip
+dimwishlist:item=1865351684&perks=2387244414,1015611457
+
+//###################################
 // Translation Theory - Sidearm
 //###################################
 

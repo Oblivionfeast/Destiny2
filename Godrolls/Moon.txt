@@ -1,4 +1,23 @@
 //###################################
+// Tranquility - Arc Logic
+//###################################
+
+//Arc Logic - Moving Target + Demolitionist
+dimwishlist:item=2723909519&perks=588594999,3523296417
+
+//Arc Logic - Outlaw + Demolitionist
+dimwishlist:item=2723909519&perks=1168162263,3523296417
+
+//Arc Logic - Outlaw + Rampage
+dimwishlist:item=2723909519&perks=1168162263,3425386926
+
+//Arc Logic - Subsidience + Demolitionist
+dimwishlist:item=2723909519&perks=1820235745,3523296417
+
+//Arc Logic - Subsidience + Rampage
+dimwishlist:item=2723909519&perks=1820235745,3425386926
+
+//###################################
 // Tranquility - Sniper Rifle
 //###################################
 

@@ -136,7 +136,7 @@ dimwishlist:item=2105827099&perks=2387244414,1015611457
 
 
 //###################################
-// istant Relation - Scout Rifle
+// Distant Relation - Scout Rifle
 //###################################
 
 //Distant Relation - Outlaw + Explosive Payload
@@ -145,3 +145,4 @@ dimwishlist:item=2034817450&perks=1168162263,3038247973
 //Distant Relation - Full Auto Trigger System + Explosive Payload
 // Sounds like fun.
 dimwishlist:item=2034817450&perks=4267945040,3038247973
+

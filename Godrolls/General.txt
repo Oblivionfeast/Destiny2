@@ -1,4 +1,11 @@
 //###################################
+// Bad Omens - Rocket Launcher
+//###################################
+
+//Bad Omens - Tracking Module + Cluster Bomb
+dimwishlist:item=991314988&perks=3977735242,1275731761
+
+//###################################
 // Zenobia-D - Rocket Launcher
 //###################################
 

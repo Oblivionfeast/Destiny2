@@ -8,8 +8,9 @@ dimwishlist:item=2108920981&perks=409831596,706527188,3523296417
 dimwishlist:item=2108920981&perks=3301904089,706527188,3300816228
 dimwishlist:item=2108920981&perks=3301904089,706527188,3523296417
 
+
 //###################################
-// Orewing's Maul - Hand Cannon
+// Crimil's Dagger - Hand Cannon
 //###################################
 
 //Crimil's Dagger - Outlaw + Kill Clip
@@ -20,3 +21,20 @@ dimwishlist:item=4292849692&perks=588594999,3038247973
 
 //Crimil's Dagger - Outlaw + Explosive Payload
 dimwishlist:item=4292849692&perks=1168162263,3038247973
+
+
+//###################################
+// Gunnora's Axe - Shotgun
+//###################################
+
+//Gunnora's Axe - Quickdraw + Demolitionist
+dimwishlist:item=2326716489&perks=706527188,3523296417
+
+//Gunnora's Axe - Quickdraw + Swashbuckler
+dimwishlist:item=2326716489&perks=706527188,4082225868
+
+//Gunnora's Axe - Quickdraw + Slideshot
+dimwishlist:item=2326716489&perks=706527188,3161816588
+
+//Gunnora's Axe - Quickdraw + Rampage
+dimwishlist:item=2326716489&perks=706527188,3425386926

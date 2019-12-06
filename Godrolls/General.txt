@@ -1,4 +1,14 @@
 //###################################
+// Wishbringer - Shotgun
+//###################################
+
+//Wishbringer - Slideshot + Rampage
+dimwishlist:item=3356526253&perks=3161816588,3425386926
+
+//Wishbringer - Threat Detector + Rampage
+dimwishlist:item=3356526253&perks=4071163871,3425386926
+
+//###################################
 // Last Perdition - Fusion Rifle
 //###################################
 

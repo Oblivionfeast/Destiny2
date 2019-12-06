@@ -1,6 +1,24 @@
 //###################################
+// The Cut and Run - Scout Rifle
+//###################################
+
+//The Cut and Run - Outlaw + Rampage
+dimwishlist:item=3501969491&perks=1168162263,3425386926
+
+//The Cut and Run - Outlaw + Dragonfly
+dimwishlist:item=3501969491&perks=1168162263,2848615171
+
+//The Cut and Run - Full Auto Trigger System + Rampage
+dimwishlist:item=3501969491&perks=4267945040,3425386926
+
+//The Cut and Run - Full Auto Trigger System + Zen Moment
+dimwishlist:item=3501969491&perks=4267945040,2387244414
+
+
+//###################################
 // Breath of the Dragon - Submachine Gun
 //###################################
+
 //Breath of the Dragon - Zen Moment + Rampage
 dimwishlist:item=1357080535&perks=2387244414,3425386926
 

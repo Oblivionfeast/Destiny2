@@ -1,4 +1,31 @@
 //###################################
+// Last Perdition - Fusion Rifle
+//###################################
+
+//Main Ingredient - Under Pressure + High-Impact Reserves
+dimwishlist:item=253196586&perks=1645158859,2213355989
+
+//Main Ingredient - Under Pressure + Backup Plan
+dimwishlist:item=253196586&perks=1645158859,1600092898
+
+//Main Ingredient - Auto-Loading Holster + Backup Plan
+dimwishlist:item=253196586&perks=3300816228,1600092898
+
+//###################################
+// Last Perdition - Pulse Rifle
+//###################################
+
+//Last Perdition - Outlaw + Kill Clip
+dimwishlist:item=188882152&perks=1168162263,1015611457
+
+//Last Perdition - Moving Target + Rampage / Kill Clip
+dimwishlist:item=188882152&perks=588594999,3425386926
+dimwishlist:item=188882152&perks=588594999,1015611457
+
+//Last Perdition - Moving Target + Full Auto Trigger System
+dimwishlist:item=188882152&perks=588594999,4267945040
+
+//###################################
 // Outlast - Pulse Rifle
 //###################################
 

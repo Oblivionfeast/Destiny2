@@ -1,4 +1,30 @@
 //###################################
+// Outlast - Pulse Rifle
+//###################################
+
+//Outlast - Outlaw + Kill Clip
+dimwishlist:item=299665907&perks=1168162263,1015611457
+
+//Outlast - Feeding Frenzy + Kill Clip
+dimwishlist:item=299665907&perks=2779035018,1015611457
+
+//Outlast - Full Auto Trigger System + Rampage
+dimwishlist:item=299665907&perks=4267945040,3425386926
+
+//Outlast - Full Auto Trigger System + Demolitionist
+dimwishlist:item=299665907&perks=4267945040,3523296417
+
+//Outlast - Feeding Frenzy + Demolitionist
+dimwishlist:item=299665907&perks=2779035018,3523296417
+
+//###################################
+// Claws of the Wolf - Submachine Gun
+//###################################
+
+//Claws of the Wolf - Outlaw + Kill Clip
+dimwishlist:item=1280933460&perks=1168162263,1015611457
+
+//###################################
 // The Last Dance - Sidearm
 //###################################
 

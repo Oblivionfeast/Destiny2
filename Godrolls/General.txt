@@ -1,4 +1,17 @@
 //###################################
+// The Last Dance - Sidearm
+//###################################
+
+//The Last Dance - Outlaw + Kill Clip
+dimwishlist:item=2009277538&perks=1168162263,1015611457
+
+//The Last Dance - Full Auto Trigger + Kill Clip
+dimwishlist:item=2009277538&perks=4267945040,1015611457
+
+//The Last Dance - Moving Target + Rangefinger
+dimwishlist:item=2009277538&perks=588594999,2846385770
+
+//###################################
 // The Hero's Burden - Submachine Gun
 //###################################
 

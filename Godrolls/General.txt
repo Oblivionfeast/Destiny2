@@ -87,7 +87,6 @@ dimwishlist:item=153979397&perks=588594999,3038247973
 //Duke Mk. 44 - Rapid Hit + Kill Clip
 dimwishlist:item=2112909414&perks=247725512,1015611457
 
-
 //Duke Mk. 44 - Rapid Hit + Outlaw
 dimwishlist:item=2112909414&perks=247725512,3425386926
 
@@ -96,3 +95,23 @@ dimwishlist:item=2112909414&perks=247725512,3425386926
 
 //Duke Mk. 44 - Outlaw + Rampage
 dimwishlist:item=2112909414&perks=1168162263,3425386926
+
+//###################################
+// Halfdan-D - Auto Rifle
+//###################################
+
+//Halfdan-D - Outlaw + Kill Clip
+dimwishlist:item=1518042134&perks=1168162263,1015611457
+
+//Halfdan-D - Outlaw + Rampage
+dimwishlist:item=1518042134&perks=1168162263,3425386926
+
+//Halfdan-D - Dynamic Sway Reduction + Kill Clip
+dimwishlist:item=1518042134&perks=1359896290,1015611457
+
+//Halfdan-D - Dynamic Sway Reduction + Rampage
+dimwishlist:item=1518042134&perks=1359896290,3425386926
+
+//Halfdan-D - Quickdraw + Rampage / Kill Clip
+dimwishlist:item=1518042134&perks=706527188,3425386926
+dimwishlist:item=1518042134&perks=706527188,1015611457

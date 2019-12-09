@@ -15,6 +15,10 @@ dimwishlist:item=2663204025&perks=1168162263,3425386926
 //Subjunctive - Threat Detector + Surrounded
 dimwishlist:item=2663204025&perks=4071163871,3708227201
 
+//Subjunctive - Small Bore + Flared Magwell + Swashbuckler / Rampage
+dimwishlist:item=2663204025&perks=1482024992,3230963543,706527188,4082225868
+dimwishlist:item=2663204025&perks=1482024992,3230963543,706527188,3425386926
+
 //###################################
 // Optative - Hand Cannon
 //###################################
@@ -24,6 +28,11 @@ dimwishlist:item=2138599001&perks=106909392,247725512,1015611457
 //Optative - Rapid Hit + Kill Clip
 dimwishlist:item=2138599001&perks=247725512,1015611457
 
+//Optative - Rapid Hit + Demolitionist
+dimwishlist:item=2138599001&perks=247725512,3523296417
+
+//Optative - Fourth Time's the Charm + Demolitionist
+dimwishlist:item=2138599001&perks=1354429876,3523296417
 
 //###################################
 // Imperative - Scout Rifle

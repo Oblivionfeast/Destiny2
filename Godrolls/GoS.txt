@@ -2,11 +2,14 @@
 // Ancient Gospel - Hand Cannon
 //###################################
 
+//Ancient Gospel - Rapid Hit + Swashbuckler
+dimwishlist:item=48643186&perks=247725512,4082225868
+
 //Ancient Gospel - Rapid Hit + Kill Clip
 dimwishlist:item=48643186&perks=247725512,1015611457
 
-//Ancient Gospel - Rapid Hit + Swashbuckler
-dimwishlist:item=48643186&perks=247725512,4082225868
+//Ancient Gospel - Outlaw + Dragonfly
+dimwishlist:item=48643186&perks=1168162263,2848615171
 
 //###################################
 // Prophet of Doom - Shotgun

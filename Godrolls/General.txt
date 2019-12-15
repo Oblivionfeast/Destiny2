@@ -32,6 +32,9 @@ dimwishlist:item=834081972&perks=247725512,1015611457
 //Service Revolver - Rapid Hit + Rampage
 dimwishlist:item=834081972&perks=247725512,3425386926
 
+//Service Revolver - Outlaw + Kill Clip
+dimwishlist:item=834081972&perks=1168162263,1015611457
+
 //###################################
 // Outrageous Fortune - Grenade Launcher
 //###################################

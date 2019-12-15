@@ -1,4 +1,14 @@
 //###################################
+//  Through Fire and Flood - Grenade Launcher
+//###################################
+
+//Through Fire and Flood - Threat Detector + Quickdraw
+dimwishlist:item=301362381&perks=4071163871,706527188
+
+//Through Fire and Flood - Threat Detector + Rampage
+dimwishlist:item=301362381&perks=4071163871,3425386926
+
+//###################################
 // Service Revolver - Hand Cannon
 //###################################
 

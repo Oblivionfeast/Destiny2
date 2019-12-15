@@ -1,5 +1,22 @@
 //###################################
-// Blast Furnace
+// Swift Ride XE8375 - Pulse Rifle
+//###################################
+
+//Swift Ride XE8375 - Outlaw + Kill Clip
+dimwishlist:item=1386601612&perks=1168162263,1015611457
+
+//Swift Ride XE8375 - Moving Target + Full Auto Trigger System
+dimwishlist:item=1386601612&perks=588594999,4267945040
+
+//Swift Ride XE8375 - Moving Target + Rampage
+dimwishlist:item=1386601612&perks=588594999,3425386926
+
+//Swift Ride XE8375 - Moving Target + Zen Moment
+dimwishlist:item=1386601612&perks=588594999,2387244414
+
+
+//###################################
+// Blast Furnace - Pulse Rifle
 //###################################
 
 //Blast Furnace - Feeding Frenzy + Kill Clip

@@ -1,0 +1,16 @@
+//###################################
+// Steelfeather Repeater - Auto Rifle
+//###################################
+
+
+//Steelfeather Repeater - Feeding Frenzy + Swashbuckler
+dimwishlist:item=1251729046&perks=2779035018,4082225868
+
+//Steelfeather Repeater - Feeding Frenzy + Osmosis
+dimwishlist:item=1251729046&perks=2779035018,1774574192
+
+//Steelfeather Repeater - Feeding Frenzy + Elemental Capacitor
+dimwishlist:item=1251729046&perks=2779035018,3511092054
+
+//Steelfeather Repeater - Feeding Frenzy + Multikill Clip
+dimwishlist:item=1251729046&perks=2779035018,2458213969

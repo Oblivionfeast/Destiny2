@@ -1,4 +1,14 @@
 //###################################
+// Outrageous Fortune - Grenade Launcher
+//###################################
+
+//Outrageous Fortune - Threat Detector + Rampage
+dimwishlist:item=4146702548&perks=4071163871,3425386926
+
+//Outrageous Fortune - Threat Detector + Quickdraw
+dimwishlist:item=4146702548&perks=4071163871,706527188
+
+//###################################
 // Badlander - Submachine Gun
 //###################################
 

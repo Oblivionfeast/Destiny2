@@ -1,5 +1,19 @@
+
 //###################################
-//  Through Fire and Flood - Grenade Launcher
+// Pillager - Submachine Gun
+//###################################
+
+//Pillager - Outlaw + Kill Clip
+dimwishlist:item=2653316158&perks=1168162263,1015611457
+
+//Pillager - Zen Moment + Rampage
+dimwishlist:item=2653316158&perks=2387244414,3425386926
+
+//Pillager - Zen Moment + Kill Clip
+dimwishlist:item=2653316158&perks=2387244414,1015611457
+
+//###################################
+// Through Fire and Flood - Grenade Launcher
 //###################################
 
 //Through Fire and Flood - Threat Detector + Quickdraw

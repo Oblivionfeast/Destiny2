@@ -1,4 +1,14 @@
 //###################################
+// Ancient Gospel - Hand Cannon
+//###################################
+
+//Ancient Gospel - Rapid Hit + Kill Clip
+dimwishlist:item=48643186&perks=247725512,1015611457
+
+//Ancient Gospel - Rapid Hit + Swashbuckler
+dimwishlist:item=48643186&perks=247725512,4082225868
+
+//###################################
 // Prophet of Doom - Shotgun
 //###################################
 

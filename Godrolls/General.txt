@@ -1,4 +1,15 @@
 //###################################
+// Badlander - Submachine Gun
+//###################################
+
+//Antiope-D - Zen Moment + Kill Clip
+dimwishlist:item=2561659919&perks=2387244414,1015611457
+
+//Antiope-D - Zen Moment + Threat Detector
+dimwishlist:item=2561659919&perks=2387244414,4071163871
+
+
+//###################################
 // Badlander - Shotgun
 //###################################
 

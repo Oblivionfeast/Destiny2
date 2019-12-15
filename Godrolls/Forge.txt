@@ -5,11 +5,12 @@
 //Blast Furnace - Feeding Frenzy + Kill Clip
 dimwishlist:item=3843477312&perks=2779035018,1015611457
 
-//Blast Furnace - Quickdraw + Kill Clip
-dimwishlist:item=3843477312&perks=706527188,1015611457
-
 //Blast Furnace - Quickdraw + Rampage
 dimwishlist:item=3843477312&perks=706527188,3425386926
 
+//Not Optimal:
+//Blast Furnace - Quickdraw + Kill Clip
+//dimwishlist:item=3843477312&perks=706527188,1015611457
+
 //Blast Furnace - Feeding Frenzy + Rampage
-dimwishlist:item=3843477312&perks=2779035018,3425386926
+//dimwishlist:item=3843477312&perks=2779035018,3425386926

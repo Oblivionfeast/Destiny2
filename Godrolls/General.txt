@@ -1,4 +1,14 @@
 //###################################
+// Service Revolver - Hand Cannon
+//###################################
+
+//Service Revolver - Rapid Hit + Kill Clip
+dimwishlist:item=834081972&perks=247725512,1015611457
+
+//Service Revolver - Rapid Hit + Rampage
+dimwishlist:item=834081972&perks=247725512,3425386926
+
+//###################################
 // Outrageous Fortune - Grenade Launcher
 //###################################
 

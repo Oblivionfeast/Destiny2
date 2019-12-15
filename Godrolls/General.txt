@@ -1,9 +1,23 @@
 //###################################
+// Badlander - Shotgun
+//###################################
+
+//Badlander - Slideshot + Quickdraw
+dimwishlist:item=1327264046&perks=3161816588,706527188
+
+//Badlander - Threat Detector + Quickdraw
+dimwishlist:item=1327264046&perks=4071163871,706527188
+
+//Badlander - Threat Detector + Rampage
+dimwishlist:item=1327264046&perks=4071163871,3425386926
+
+//###################################
 // Smuggler's Word - Sidearm
 //###################################
 
 //Smuggler's Word - Full Auto Trigger System + Rampage
 dimwishlist:item=1843044399&perks=4267945040,3425386926
+
 
 //###################################
 // Ether Doctor - Auto Rifle

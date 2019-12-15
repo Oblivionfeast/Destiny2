@@ -1,5 +1,30 @@
 //###################################
-// Tranquility - Arc Logic
+// Loud Lullaby - Hand Cannon (Moon Essence)
+//###################################
+
+//Loud Lullaby - Outlaw + Explosive Payload
+dimwishlist:item=3924212056&perks=1168162263,3038247973
+
+//Loud Lullaby - Outlaw + Rampage
+dimwishlist:item=3924212056&perks=1168162263,3425386926
+
+//Loud Lullaby - Outlaw + Demolitionist
+dimwishlist:item=3924212056&perks=1168162263,3523296417
+
+//Loud Lullaby - Threat Detector + Demolitionist
+dimwishlist:item=3924212056&perks=4071163871,3523296417
+
+//Loud Lullaby - Outlaw + Multikill Clip
+dimwishlist:item=3924212056&perks=1168162263,2458213969
+
+//Loud Lullaby - Subsistence + Mulitkill Clip
+dimwishlist:item=3924212056&perks=1820235745,2458213969
+
+//Loud Lullaby - Threat Detector + Rampage
+dimwishlist:item=3924212056&perks=4071163871,3425386926
+
+//###################################
+// Tranquility - Arc Logic (Moon Essence)
 //###################################
 
 //Arc Logic - Moving Target + Demolitionist
@@ -18,7 +43,7 @@ dimwishlist:item=2723909519&perks=1820235745,3523296417
 dimwishlist:item=2723909519&perks=1820235745,3425386926
 
 //###################################
-// Tranquility - Sniper Rifle
+// Tranquility - Sniper Rifle (Moon Essence)
 //###################################
 
 //Tranquility - Field Prep + Firing Line
@@ -34,7 +59,7 @@ dimwishlist:item=1645386487&perks=3300816228,1771339417
 dimwishlist:item=1645386487&perks=1168162263,3425386926
 
 //###################################
-// Apostate - Sniper Rifle
+// Apostate - Sniper Rifle (Moon Sorrow's)
 //###################################
 
 //Apostate - Moving target + Quickdraw

@@ -1,4 +1,11 @@
 //###################################
+// Smuggler's Word - Sidearm
+//###################################
+
+//Smuggler's Word - Full Auto Trigger System + Rampage
+dimwishlist:item=1843044399&perks=4267945040,3425386926
+
+//###################################
 // Ether Doctor - Auto Rifle
 //###################################
 
